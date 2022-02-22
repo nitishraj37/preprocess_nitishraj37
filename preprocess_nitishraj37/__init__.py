@@ -54,7 +54,7 @@ def remove_accented_chars(x):
 	return utils.remove_accented_chars(x)
 
 def remove_stopwords(x):
-	return utils.remove_stopwords(x):
+	return utils.remove_stopwords(x)
 
 def make_base(x):
 	return utils.make_base(x)
